@@ -148,7 +148,6 @@ things
 own
 same
 another
-ca
 long
 both
 use
@@ -171,7 +170,6 @@ might
 am
 mean
 find
-mr
 house
 put
 love
@@ -196,14 +194,12 @@ women
 children
 found
 family
-na
 money
 today
 must
 told
 okay
 old
-american
 during
 night
 under
@@ -376,7 +372,6 @@ car
 behind
 party
 child
-america
 everyone
 body
 remember
@@ -391,7 +386,6 @@ data
 obama
 started
 office
-TRUE
 community
 wrong
 months
@@ -406,7 +400,6 @@ looked
 either
 himself
 happened
-s
 large
 guys
 sense
@@ -422,7 +415,6 @@ process
 turn
 comes
 lost
-wo
 future
 court
 table
@@ -466,7 +458,6 @@ needs
 ok
 plan
 turned
-dr
 bring
 level
 major
@@ -496,7 +487,6 @@ son
 gave
 themselves
 late
-al
 inside
 looks
 especially
@@ -512,7 +502,6 @@ gone
 finally
 toward
 military
-m
 fine
 report
 dead
@@ -617,7 +606,6 @@ americans
 road
 interest
 whose
-david
 chance
 student
 companies
@@ -725,7 +713,6 @@ create
 feeling
 teachers
 dark
-george
 include
 economy
 california
@@ -746,14 +733,11 @@ total
 natural
 particular
 republican
-clinton
 sir
-et
 beyond
 usually
 significant
 walk
-qwq
 summer
 died
 michael
@@ -780,7 +764,6 @@ quickly
 moved
 language
 financial
-p
 race
 focus
 areas
@@ -795,7 +778,6 @@ decided
 kept
 choice
 type
-c
 election
 interesting
 note
@@ -810,15 +792,12 @@ moving
 led
 write
 average
-b
 knowledge
 giving
 bed
 response
 increase
 billion
-san
-de
 potential
 sent
 miss
@@ -4272,7 +4251,6 @@ eliminate
 brush
 battery
 sink
-anne
 pet
 corps
 secrets
